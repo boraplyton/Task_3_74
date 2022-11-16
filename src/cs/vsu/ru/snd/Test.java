@@ -5,6 +5,7 @@ import java.util.Scanner;
 
 public class Test {
 
+
     public static final HorizontalParabola HP = new HorizontalParabola(2, 3, 1);
 
     public static final VerticalParabola VPL = new VerticalParabola(-6, 0 , -0.5);
