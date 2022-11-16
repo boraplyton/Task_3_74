@@ -3,7 +3,7 @@ package cs.vsu.ru.snd;
 import java.util.Locale;
 import java.util.Scanner;
 
-public class Main {
+public class Test {
 
     public static final HorizontalParabola HP = new HorizontalParabola(2, 3, 1);
 
